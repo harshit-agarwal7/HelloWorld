@@ -1,1 +1,3 @@
 This is the comment on Master.
+
+This is the first addition on branch feature1.
